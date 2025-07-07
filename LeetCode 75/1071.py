@@ -1,5 +1,4 @@
 # Greatest Common Divisor of Strings
-
 str1 = input()
 str2 = input()
 

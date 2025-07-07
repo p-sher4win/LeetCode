@@ -1,5 +1,4 @@
 # Reverse Vowels of a String
-
 s  = "IceCreAm"
 
 vowels = "aeiouAEIOU"

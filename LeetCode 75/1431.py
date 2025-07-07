@@ -1,5 +1,4 @@
 # Kids with the Greatest Number of Candies
-
 def kidsWithCandies(candies, extraCandies):
     # comparison = list()
     # result = list()

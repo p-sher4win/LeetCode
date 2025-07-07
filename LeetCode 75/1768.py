@@ -1,5 +1,4 @@
 # Merge Strings Alternatively
-
 word1 = input()
 word2 = input()
 merge = ''
